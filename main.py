@@ -3,3 +3,4 @@ import calculate
 
 print("This is the Beginning!")
 print(calculate.x)
+print("Life is good! Happy New Year!")
